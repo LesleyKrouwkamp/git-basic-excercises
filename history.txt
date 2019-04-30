@@ -1,0 +1,213 @@
+    1  sudo apt update
+    2  ifconfig
+    3  iwlist
+    4  dhclient
+    5  wpa_supplicant
+    6  wich ifconfig
+    7  wich iwlist
+    8  wich dhclient
+    9  wich wpa_supplicant
+   10  find desktop
+   11  ls
+   12  mkdr
+   13  mkdir
+   14  ls
+   15  mkdir myProject
+   16  ls
+   17  cd des/
+   18  cd Desktop
+   19  mkdir myProjects
+   20  ls
+   21  myProjects touch app.js
+   22  open app.js
+   23  myProjects open app.js
+   24  cd myProjects
+   25  open app.js
+   26  ls
+   27  cat> app.js
+   28  ls
+   29  cd Desktop
+   30  cd../
+   31  cd ../
+   32  mkdir myProject2
+   33  ls
+   34  cd myProject 
+   35  myProjects
+   36  cd myProject2
+   37  cd myProject
+   38  cd myProjects
+   39  ls
+   40  cd Desktop
+   41  cd myProjects
+   42  ls
+   43  cd Desktop
+   44  ls
+   45  cd myProjects
+   46  cp app.js myProject2
+   47  ls
+   48  cd myProject2
+   49  ls
+   50  cd Desktop
+   51  cd myProject2
+   52  cp app,js
+   53  cp app.js
+   54  cd Desktop
+   55  ls
+   56  cd Desktop
+   57  ls
+   58  cp -r myProjects/app.js/ myProject2/
+   59  myProjects/app.js/ myProject2
+   60  ls
+   61  cd myProjects
+   62  cp claer
+   63  clear
+   64  ls
+   65  mv app.js ../myProject2/
+   66  ls
+   67  cd myProject2
+   68  clear
+   69  ls
+   70  cd Desktop
+   71  cd myProject2
+   72  ls
+   73  cp app.js ../myProjects/
+   74  ls
+   75  git config --global user.name "Lesley Krouwkamp"
+   76  git config --global user.email "lesley.krouwkamp@umuzi.org"
+   77  --list
+   78  git config --list
+   79  cd myProjects
+   80  cd Desktop
+   81  cd myProjects
+   82  git init
+   83  git add .
+   84  git commit
+   85  git status
+   86  cd Desktop
+   87  ls
+   88  cd Desktop
+   89  ls
+   90  tree
+   91  ls
+   92  cd Classes
+   93  mkdir OOP && mv Classes.js OOP
+   94  cd OOP/
+   95  clear
+   96  ls
+   97  sudo apt install node
+   98  sudo apt install nvm
+   99  sudo apt install npm
+  100  clear
+  101  npm init
+  102  clear
+  103  npm Classes.js
+  104  clear
+  105  ls
+  106  code package.json 
+  107  npm --help
+  108  npm run Classes.js 
+  109  clear
+  110  node Classes.js 
+  111  node Classes2.js 
+  112  node Classes.js 
+  113  node Dice.js
+  114  ls
+  115  Dice.js
+  116  node Dice.js 
+  117  node Dice.js 
+  118  clear
+  119  node Dice.js 
+  120  clear
+  121  node Dice.js 
+  122  clear
+  123  node Dice.js 
+  124  clear
+  125  node Dice.js 
+  126  clear
+  127  node Dice.js 
+  128  clear
+  129  node Dice.js 
+  130  clear
+  131  node Dice.js 
+  132  clear
+  133  node Dice.js 
+  134  clear
+  135  node Dice.js 
+  136  clear
+  137  node Dice.js 
+  138  clear
+  139  node Dice.js 
+  140  clear
+  141  node Dice.js 
+  142  clear
+  143  node Dice.js 
+  144  clear
+  145  node Dice.js 
+  146  mkdir git-basic-excercises
+  147  cd git-basic-excercises
+  148  ls -a
+  149  git init
+  150  ls -a
+  151  touch README.md
+  152  ls -a
+  153  git ;og
+  154  git log
+  155  git status
+  156  git log
+  157  git add 
+  158  git add README.md 
+  159  git status
+  160  git rm --cached README.md 
+  161  git status 
+  162  git add README.md 
+  163  git commit -m "initial commit"
+  164  git log
+  165  q
+  166  nano README.md 
+  167  car README.md 
+  168  cat README.md 
+  169  git status
+  170  git commit -git add README.md 
+  171  git add README.md 
+  172  git commit m- "second commit"
+  173  git commit -m "second commit"
+  174  nano README.md 
+  175  git log
+  176  commit -m "third commit"
+  177  git commit "third commit"
+  178  cat README
+  179  nano README.md 
+  180  git commit -m "third commit"
+  181  git add README.md 
+  182  git commit -m "third commit"
+  183  git log
+  184  q
+  185  git checkout master
+  186  git checkout master d85dea8f636b468eb9cd65fba30e280c3e61f625
+  187  q
+  188  git checkout d85dea8f636b468eb9cd65fba30e280c3e61f625
+  189  cat README.md 
+  190  git checkout master
+  191  git branch
+  192  git branch milkshake-flavours
+  193  git branch
+  194  git checkout milkshake-flavours
+  195  checkout master
+  196  git checkout master
+  197  git checkout milkshake-flavours
+  198  nano milkshakes.md
+  199  git status
+  200  git add milkshakes.md 
+  201  git commit -m "added initial flavours"
+  202  git log
+  203  git checkout master
+  204  git checkot milkshake-flavours
+  205  git checkout milkshake-flavours 
+  206  git log
+  207  q
+  208  git checkout master
+  209  git branch history
+  210  git checkout history
+  211  git log
+  212  git history > histiry.txt
+  213  history > history.txt
